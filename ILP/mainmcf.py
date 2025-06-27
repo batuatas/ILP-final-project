@@ -43,7 +43,7 @@ for inst in instances:
         if feasible:
             print(f"Feasible solution found. Score: {result['objective']}")
         else:
-            print(f"⚠️ Infeasible solution detected: {reason}")
+            print(f"Infeasible solution detected: {reason}")
 
         # Clean model object before saving
         result_to_save = result.copy()
