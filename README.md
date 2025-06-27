@@ -4,7 +4,7 @@
 **Integer Linear Programming Course (2024–2025)**  
 **Programming Assignment**
 
-**Student:** Batuhan Ataş (726476)  
+**Student:** Batuhan Atas
 **Instructor:** M. Leitner  
 **Course Period:** 2024–2025
 
